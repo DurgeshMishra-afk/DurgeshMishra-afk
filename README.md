@@ -37,5 +37,5 @@ Focused on Firmware Development, Embedded Systems, Digital System Design, RF Ene
 
 ### 📬 Connect With Me
 
-* **Email:** [durgeshmishra3451@gmail.com](mailto:durgeshmishra3451@gmail.com)[cite: 1]
+* **Email:** [durgeshmishra3451@gmail.com](mailto:durgeshmishra3451@gmail.com)
 * **LinkedIn:** [linkedin.com/in/durgesh-mishra-3bb981249](https://www.linkedin.com/in/durgesh-mishra-3bb981249)
